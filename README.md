@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Hadar Bar Asher
 
-<!--
-**SamalArba/SamalArba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with hands-on experience building full-stack web applications.
 
-Here are some ideas to get you started:
+I built and maintain Project Tracker, a production-style project management system used daily by a construction company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Project
+
+### Project Tracker
+Full-stack project management system built with React, TypeScript, Node.js, Express, PostgreSQL, Prisma, AWS S3, Docker and JWT authentication.
+
+Repository: https://github.com/SamalArba/project-tracker
+
+## Technical Skills
+
+- TypeScript / JavaScript
+- React
+- Node.js / Express
+- PostgreSQL / Prisma
+- Docker
+- Git
+- AWS S3
